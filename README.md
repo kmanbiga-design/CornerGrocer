@@ -1,1 +1,12 @@
-
+Project Summary
+The Corner Grocer project is a C++ program that keeps track of grocery items purchased during the day. The program reads items from an input file, counts how many times each item appears, and allows the user to search for an item or display the item frequencies. It also creates a backup file containing the grocery item information. The purpose of the program was to make it easier for a grocery store to see how often different items were purchased.
+What I Did Well
+I think I did well with organizing the program into separate functions instead of putting everything into one large section of code. I also used a class to keep the grocery tracking functions together. The program can read the input file, count the items, display the information, and create the backup file as required. I also added comments to help explain what different parts of the code do.
+Possible Improvements
+One area where I could improve the code is making the program handle unexpected input more carefully. For example, I could add more checks for missing files or invalid user input. This would make the program more reliable and prevent it from having problems when something unexpected happens. I could also improve some of the code organization as I become more comfortable with C++.
+Challenges and Resources
+One of the more challenging parts of the project was understanding how to work with files and keep track of how many times each grocery item appeared. I had to make sure the information was read correctly and that the counts were updated properly. I worked through these problems by testing my program, looking at the errors I received, and using the course materials and programming resources to understand what I needed to change. Visual Studio was also useful for testing and debugging the program.
+Transferable Skills
+This project helped me practice C++ skills that I can use in future projects. Some of these skills include using classes and functions, reading and writing files, using loops and conditional statements, and debugging code. I also learned more about breaking a larger problem into smaller parts. These skills should be useful in future programming courses and projects.
+Maintainability, Readability, and Adaptability
+I made the program more maintainable and readable by separating the different tasks into functions and using comments to explain the code. Keeping the grocery tracking functions organized makes it easier to find and change a specific part of the program. The program could also be adapted in the future if more features were needed, such as adding more search options or changing how the grocery information is displayed.
